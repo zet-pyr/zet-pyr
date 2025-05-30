@@ -215,7 +215,7 @@ Status: 🟢 Production | 🚀 Expansion globale en cours
 ### ⚡ **VekoJS - Framework de Nouvelle Génération**
 *Repenser le développement JavaScript*
 
-[![VekoJS Banner](https://i.imgur.com/your-vekojs-banner.png)](https://vekojs.dev/)
+[![VekoJS](https://img.shields.io/badge/VekoJS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://vekojs.dev/)
 
 [![VekoJS Live](https://img.shields.io/badge/⚡%20Framework-VekoJS-4FC08D?style=for-the-badge&logoColor=white&logo=javascript)](https://vekojs.dev/)
 [![Repository](https://img.shields.io/badge/📦%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/wiltark/veko.js/)
