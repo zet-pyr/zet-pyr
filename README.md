@@ -285,12 +285,8 @@ Rust         35 mins         █░░░░░░░░░░░░░░░░
 
 ### 🤝 **Connect & Collaborate**
 
-[![Portfolio](https://img.shields.io/badge/🌟%20Portfolio-zet--pyr.dev-FF6B6B?style=for-the-badge&logoColor=white)](https://zet-pyr.dev)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zet-pyr)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-@zet__pyr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zet_pyr)
-[![Discord](https://img.shields.io/badge/💬%20Discord-zet--pyr%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zetpyr)
-[![Email](https://img.shields.io/badge/📧%20Email-contact@zet--pyr.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@zet-pyr.dev)
-[![Calendar](https://img.shields.io/badge/📅%20Schedule%20Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/zet-pyr)
+[![Discord](https://img.shields.io/badge/💬%20Discord-zet--pyr%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zetchatori)
+[![Email](https://img.shields.io/badge/📧%20Email-contact@zet--pyr.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zetchatori_view@outlook.fr)
 
 ### 🎵 **Current Coding Vibe**
 [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0A0E27&border_color=FF6B6B)](https://open.spotify.com/user/31hu2x3l4zttgocgmq2txfxcdeha)
