@@ -286,7 +286,7 @@ Rust         35 mins         █░░░░░░░░░░░░░░░░
 ### 🤝 **Connect & Collaborate**
 
 [![Discord](https://img.shields.io/badge/💬%20Discord-zet--pyr%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zetchatori)
-[![Email](https://img.shields.io/badge/📧%20Email-contact@zet--pyr.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zetchatori_view@outlook.fr)
+[![Email](https://img.shields.io/badge/📧%20Email-zetchatori_view@outlook.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zetchatori_view@outlook.fr)
 
 ### 🎵 **Current Coding Vibe**
 [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0A0E27&border_color=FF6B6B)](https://open.spotify.com/user/31hu2x3l4zttgocgmq2txfxcdeha)
