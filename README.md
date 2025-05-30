@@ -180,8 +180,10 @@ Frontend Masters → Backend Powerhouses → Database Excellence
 
 <div align="center">
 
-### 🚀 **[Cosmochat](https://cosmochat.app/) - L'Avenir de la Communication**
+### 🚀 **Cosmochat - L'Avenir de la Communication**
 *Redéfinir les interactions numériques*
+
+[![Cosmochat Banner](https://i.imgur.com/your-cosmochat-banner.png)](https://cosmochat.app/)
 
 [![Cosmochat Live](https://img.shields.io/badge/🌌%20Live%20App-Cosmochat-FF6B6B?style=for-the-badge&logoColor=white&logo=rocket)](https://cosmochat.app/)
 [![Organization](https://img.shields.io/badge/🏢%20Organization-CosmoChat-181717?style=for-the-badge&logo=github)](https://github.com/CosmoChat-Org/)
@@ -210,8 +212,10 @@ Status: 🟢 Production | 🚀 Expansion globale en cours
 
 ---
 
-### ⚡ **[VekoJS](https://vekojs.dev/) - Framework de Nouvelle Génération**
+### ⚡ **VekoJS - Framework de Nouvelle Génération**
 *Repenser le développement JavaScript*
+
+[![VekoJS Banner](https://i.imgur.com/your-vekojs-banner.png)](https://vekojs.dev/)
 
 [![VekoJS Live](https://img.shields.io/badge/⚡%20Framework-VekoJS-4FC08D?style=for-the-badge&logoColor=white&logo=javascript)](https://vekojs.dev/)
 [![Repository](https://img.shields.io/badge/📦%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/wiltark/veko.js/)
@@ -241,7 +245,7 @@ Status: 🟡 Beta Release | 🔬 R&D Active
 
 ---
 
-### 🌐 **[QuantumAPI](https://quantum-api.dev/) - API du Futur**
+### 🌐 **QuantumAPI - API du Futur**
 *Infrastructure API ultra-performante*
 
 [![QuantumAPI](https://img.shields.io/badge/🔮%20QuantumAPI-Live-9D4EDD?style=for-the-badge&logoColor=white)](https://quantum-api.dev/)
