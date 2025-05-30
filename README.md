@@ -183,7 +183,7 @@ Frontend Masters → Backend Powerhouses → Database Excellence
 ### 🚀 **Cosmochat - L'Avenir de la Communication**
 *Redéfinir les interactions numériques*
 
-[![Cosmochat Banner](https://i.imgur.com/your-cosmochat-banner.png)](https://cosmochat.app/)
+[![Cosmochat Banner](https://imgur.com/a/St4Vn51)](https://imgur.com/a/St4Vn51)
 
 [![Cosmochat Live](https://img.shields.io/badge/🌌%20Live%20App-Cosmochat-FF6B6B?style=for-the-badge&logoColor=white&logo=rocket)](https://cosmochat.app/)
 [![Organization](https://img.shields.io/badge/🏢%20Organization-CosmoChat-181717?style=for-the-badge&logo=github)](https://github.com/CosmoChat-Org/)
