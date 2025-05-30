@@ -190,7 +190,7 @@ Frontend Masters → Backend Powerhouses → Database Excellence
 ```yaml
 Mission: Révolutionner la communication en temps réel
 Architecture:
-  Frontend: React 18 + TypeScript + Tailwind CSS
+  Frontend: Veko
   Backend: Node.js + Express + Socket.io
   Database: MySQL + Redis Cache
   Infrastructure: Docker + Kubernetes + Nginx
@@ -220,8 +220,7 @@ Status: 🟢 Production | 🚀 Expansion globale en cours
 ```yaml
 Vision: Créer le framework JavaScript le plus performant
 Innovation:
-  Core: TypeScript + Modern Web APIs
-  Bundler: Vite + Custom Optimizations
+  Core: JS + EJS = Express
   Size: Bundle ultra-compact (< 12kb gzipped)
   Performance: 40% plus rapide que React
 Revolutionary Features:
