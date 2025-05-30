@@ -183,8 +183,6 @@ Frontend Masters → Backend Powerhouses → Database Excellence
 ### 🚀 **Cosmochat - L'Avenir de la Communication**
 *Redéfinir les interactions numériques*
 
-[![Cosmochat Banner](https://imgur.com/a/St4Vn51)](https://imgur.com/a/St4Vn51)
-
 [![Cosmochat Live](https://img.shields.io/badge/🌌%20Live%20App-Cosmochat-FF6B6B?style=for-the-badge&logoColor=white&logo=rocket)](https://cosmochat.app/)
 [![Organization](https://img.shields.io/badge/🏢%20Organization-CosmoChat-181717?style=for-the-badge&logo=github)](https://github.com/CosmoChat-Org/)
 [![Users](https://img.shields.io/badge/👥%20Active%20Users-5.2K+-00D9FF?style=for-the-badge&logo=users)](https://cosmochat.app/stats)
@@ -215,8 +213,6 @@ Status: 🟢 Production | 🚀 Expansion globale en cours
 ### ⚡ **VekoJS - Framework de Nouvelle Génération**
 *Repenser le développement JavaScript*
 
-[![VekoJS](https://img.shields.io/badge/VekoJS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://vekojs.dev/)
-
 [![VekoJS Live](https://img.shields.io/badge/⚡%20Framework-VekoJS-4FC08D?style=for-the-badge&logoColor=white&logo=javascript)](https://vekojs.dev/)
 [![Repository](https://img.shields.io/badge/📦%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/wiltark/veko.js/)
 [![NPM](https://img.shields.io/badge/📦%20NPM-veko-CB3837?style=for-the-badge&logo=npm)](https://npmjs.com/package/veko)
@@ -242,33 +238,6 @@ Ecosystem:
   - VekoJS Testing Framework
 Status: 🟡 Beta Release | 🔬 R&D Active
 ```
-
----
-
-### 🌐 **QuantumAPI - API du Futur**
-*Infrastructure API ultra-performante*
-
-[![QuantumAPI](https://img.shields.io/badge/🔮%20QuantumAPI-Live-9D4EDD?style=for-the-badge&logoColor=white)](https://quantum-api.dev/)
-[![Docs](https://img.shields.io/badge/📖%20Documentation-GitBook-FF6B6B?style=for-the-badge&logo=gitbook)](https://docs.quantum-api.dev/)
-
-```yaml
-Purpose: Démocratiser l'accès aux APIs haute performance
-Technology Stack:
-  Runtime: Node.js + Rust (critical paths)
-  Database: MySQL + Redis + ElasticSearch
-  Security: JWT + OAuth2 + Rate Limiting
-  Monitoring: Prometheus + Grafana
-Capabilities:
-  🚀 <10ms response time (99th percentile)
-  🔒 Enterprise-grade security
-  📊 Real-time analytics dashboard
-  🌍 Global CDN avec 15 edge locations
-  🔄 Auto-scaling intelligent
-  📈 99.99% uptime garanteed
-Status: 🟢 Enterprise Ready | 🌟 500+ clients
-```
-
-</div>
 
 ---
 
