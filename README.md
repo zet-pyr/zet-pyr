@@ -344,7 +344,7 @@ Q4 2025:
 [![Calendar](https://img.shields.io/badge/📅%20Schedule%20Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/zet-pyr)
 
 ### 🎵 **Current Coding Vibe**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0A0E27&border_color=FF6B6B)](https://open.spotify.com/user/zetpyr)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0A0E27&border_color=FF6B6B)](https://open.spotify.com/user/31hu2x3l4zttgocgmq2txfxcdeha)
 
 </div>
 
