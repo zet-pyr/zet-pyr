@@ -47,18 +47,35 @@
 ## Coding Activity
 
 <div align="center">
-  
-```text
-Total Time Coded: 2,847 hrs 42 mins
 
-JavaScript   ████████████████░░░░░   80.2%
-TypeScript   ███████░░░░░░░░░░░░░░░   35.1%
-Python       ██████░░░░░░░░░░░░░░░░   30.4%
-HTML/CSS     ████░░░░░░░░░░░░░░░░░░   20.7%
-Java         ███░░░░░░░░░░░░░░░░░░░   15.3%
-C            ██░░░░░░░░░░░░░░░░░░░░   10.8%
-Other        █░░░░░░░░░░░░░░░░░░░░░    5.2%
+[![wakatime](https://wakatime.com/badge/user/zet-pyr.svg)](https://wakatime.com/@zet-pyr)
+
+<!--START_SECTION:waka-->
+```text
+Week: 28 October, 2024 - 03 November, 2024
+
+Total: 47 hrs 23 mins
+
+JavaScript   25 hrs 12 mins  ████████████████░░░░░   53.2%
+TypeScript   11 hrs 45 mins  ██████░░░░░░░░░░░░░░░░   24.8%
+Python        5 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░   11.6%
+HTML          2 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░░    5.8%
+CSS           1 hr 32 mins   █░░░░░░░░░░░░░░░░░░░░░    3.2%
+JSON             39 mins     ░░░░░░░░░░░░░░░░░░░░░░    1.4%
 ```
+<!--END_SECTION:waka-->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zet-pyr&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+**Real-time Development Metrics**
+
+![Coding Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:today&style=flat-square&color=58a6ff&label=Today)
+![This Week](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:7_days&style=flat-square&color=58a6ff&label=This%20Week)
+![This Month](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:30_days&style=flat-square&color=58a6ff&label=This%20Month)
 
 </div>
 
