@@ -48,34 +48,36 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/zet-pyr.svg)](https://wakatime.com/@zet-pyr)
+**Live Development Tracking**
 
-<!--START_SECTION:waka-->
-```text
-Week: 28 October, 2024 - 03 November, 2024
+![Profile last updated](https://img.shields.io/github/last-commit/zet-pyr/zet-pyr?label=Profile%20Updated&style=flat-square&color=58a6ff)
+![GitHub User's stars](https://img.shields.io/github/stars/zet-pyr?style=flat-square&color=58a6ff&label=Total%20Stars)
 
-Total: 47 hrs 23 mins
+</div>
 
-JavaScript   25 hrs 12 mins  ████████████████░░░░░   53.2%
-TypeScript   11 hrs 45 mins  ██████░░░░░░░░░░░░░░░░   24.8%
-Python        5 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░░   11.6%
-HTML          2 hrs 45 mins  █░░░░░░░░░░░░░░░░░░░░░    5.8%
-CSS           1 hr 32 mins   █░░░░░░░░░░░░░░░░░░░░░    3.2%
-JSON             39 mins     ░░░░░░░░░░░░░░░░░░░░░░    1.4%
-```
-<!--END_SECTION:waka-->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zet-pyr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+</div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zet-pyr&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+**Current Session**
+
+![Lines of Code](https://img.shields.io/tokei/lines/github/zet-pyr/zet-pyr?style=flat-square&color=58a6ff&label=Total%20Lines)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/zet-pyr/zet-pyr?style=flat-square&color=58a6ff&label=Commits%20This%20Week)
+![Latest Release](https://img.shields.io/github/v/release/zet-pyr/zet-pyr?style=flat-square&color=58a6ff&label=Latest%20Version)
 
 </div>
 
 <div align="center">
 
-**Real-time Development Metrics**
+**Language Usage (Real-time)**
 
-![Coding Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:today&style=flat-square&color=58a6ff&label=Today)
-![This Week](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:7_days&style=flat-square&color=58a6ff&label=This%20Week)
-![This Month](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/zet-pyr/interval:30_days&style=flat-square&color=58a6ff&label=This%20Month)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zet-pyr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=1800&langs_count=8)
+
+**Development Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=zet-pyr&theme=github-dark-blue&hide_border=true&background=0d1117&cache_seconds=1800)
 
 </div>
 
