@@ -28,7 +28,6 @@
 ### 🌌 **Cosmochat**
 *Plateforme de communication moderne*
 - 🔗 [cosmochat.app](https://cosmochat.app/)
-- 👥 **5.2K+ utilisateurs actifs**
 - ⚡ Communication temps réel
 - 🛠️ **Tech:** Node.js, Socket.io, MySQL
 
