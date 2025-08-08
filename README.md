@@ -104,37 +104,47 @@
 
 ---
 
-## Technology Stack
+## Technology Stack & Real-time Usage
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+### Languages & Frameworks (Usage Stats)
+![JavaScript](https://img.shields.io/github/languages/top/zet-pyr/cosmochat?style=flat-square&color=F7DF1E&logo=javascript&logoColor=black&label=JavaScript)
+![TypeScript](https://img.shields.io/github/search/zet-pyr/zet-pyr?query=language:typescript&style=flat-square&color=3178C6&logo=typescript&logoColor=white&label=TypeScript)
+![Python](https://img.shields.io/github/search/zet-pyr/zet-pyr?query=language:python&style=flat-square&color=3776AB&logo=python&logoColor=white&label=Python)
+![React](https://img.shields.io/npm/v/react?style=flat-square&color=61DAFB&logo=react&logoColor=black&label=React)
+![Node.js](https://img.shields.io/node/v/latest?style=flat-square&color=339933&logo=node.js&logoColor=white&label=Node.js)
 
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Active Repositories
+![Repo Count](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zet-pyr&query=$.public_repos&style=flat-square&color=58a6ff&label=Public%20Repos)
+![Updated Today](https://img.shields.io/github/search/zet-pyr/zet-pyr?query=pushed:>2024-08-07&style=flat-square&color=58a6ff&label=Updated%20Today)
+![Total Size](https://img.shields.io/github/languages/code-size/zet-pyr/zet-pyr?style=flat-square&color=58a6ff&label=Code%20Size)
+
+### Development Tools (Live)
+![Docker](https://img.shields.io/docker/v/_/node?style=flat-square&color=2496ED&logo=docker&logoColor=white&label=Docker)
+![NPM](https://img.shields.io/npm/v/npm?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=NPM)
+![Git](https://img.shields.io/github/last-commit/zet-pyr/zet-pyr?style=flat-square&color=F05032&logo=git&logoColor=white&label=Last%20Commit)
 
 </div>
 
 ---
 
-## Development Environment
+## Live Development Environment
 
 <div align="center">
-  
-| **OS** | **Editor** | **Terminal** | **Browser** |
-|--------|------------|--------------|-------------|
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white) | ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+
+**Current Session Status**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+**Real-time Activity**
+
+![Profile Views Today](https://komarev.com/ghpvc/?username=zet-pyr&style=flat-square&color=58a6ff&label=Profile%20Views%20Today)
+![Followers](https://img.shields.io/github/followers/zet-pyr?style=flat-square&color=58a6ff&label=Followers)
+![Following](https://img.shields.io/github/following/zet-pyr?style=flat-square&color=58a6ff&label=Following)
 
 </div>
 
