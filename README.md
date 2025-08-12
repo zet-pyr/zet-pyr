@@ -29,19 +29,11 @@
 
 ---
 
-## 🎮 Pacman Game
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zet-pyr/zet-pyr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zet-pyr/zet-pyr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zet-pyr/zet-pyr/output/pacman-contribution-graph.svg">
-</picture>
-
-
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 <table>
 <tr>
