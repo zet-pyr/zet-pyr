@@ -35,21 +35,6 @@
 
 ![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
-<table>
-<tr>
-<td align="center"><strong>SCORE</strong></td>
-<td align="center"><strong>LEVEL</strong></td>
-<td align="center"><strong>LIVES</strong></td>
-<td align="center"><strong>STATUS</strong></td>
-</tr>
-<tr>
-<td align="center">🏆 <code>2,840</code></td>
-<td align="center">📊 <code>12</code></td>
-<td align="center">❤️ <code>●●●</code></td>
-<td align="center">🟢 <code>ACTIVE</code></td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -102,16 +87,10 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zet-pyr&layout=compact&theme=radical)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,vuejs,nodejs,rust,go,expressjs,html,css,git,c,)
+
 
 </div>
 
@@ -121,9 +100,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zet-pyr&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zet-pyr&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zet-pyr&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zet-pyr&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zet-pyr&theme=github_dark&utcOffset=1"/>
 </div>
 
